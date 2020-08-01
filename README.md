@@ -38,15 +38,10 @@ Then select and open ```automation.py```
 
 ---
 
-### Visuals
-***[Add screenshots of your application in action]***
+### Resources 
 
-#### Application Start
-![Image 1](https://via.placeholder.com/750x500)
-#### Using the Application
-![Image 1](https://via.placeholder.com/750x500)
-#### Application End
-![Image 1](https://via.placeholder.com/750x500)
+[Stack OverFlow](https://stackoverflow.com/questions/3868753/find-phone-numbers-in-python-script)
+
 
 ---
 
