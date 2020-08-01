@@ -6,6 +6,7 @@ authors = ["natalie sinner <nataliesinner@hotmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+faker = "^4.1.1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
